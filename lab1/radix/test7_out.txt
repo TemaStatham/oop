@@ -1,0 +1,1 @@
+Error, program works only for number systems from 2 to 36

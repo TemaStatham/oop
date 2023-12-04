@@ -1,0 +1,2 @@
+Invalid argument count
+Usage: task2.exe <source notation> <destination notation> <value>
