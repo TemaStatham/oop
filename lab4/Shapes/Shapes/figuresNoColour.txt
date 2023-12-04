@@ -1,0 +1,5 @@
+circle 10 10 15
+triangle 10 -1 5 6 10 10
+linesegment 1 1 5 5 00ff00
+rectangle 10.3 20.15 30.7 40.4
+cone 10.3 20.15 30.7 40.4
