@@ -1,0 +1,6 @@
+12 12
+123 cats
+32 cat
+cat 12
+hello привет
+привет hello

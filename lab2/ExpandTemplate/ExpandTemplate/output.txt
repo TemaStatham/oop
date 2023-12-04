@@ -1,0 +1,1 @@
+Hello, artem. Today is {WEEK_DAY}.
